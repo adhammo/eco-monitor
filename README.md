@@ -4,11 +4,11 @@
 
 ## Role in Eco-Telemetry
 
-Receives sensors data sent over MQTT by [Eco-Broadcast](https://github.com/adhammo/eco-broadcast) and saves it in ([Cloud Firestore](https://firebase.google.com/docs/firestore)) for [Eco-Display](https://github.com/adhammo/eco-display) to display it in real-time.
+Receives sensor data sent over MQTT by [Eco-Broadcast](https://github.com/adhammo/eco-broadcast) and saves it in ([Cloud Firestore](https://firebase.google.com/docs/firestore)) for [Eco-Display](https://github.com/adhammo/eco-display) to display it in real-time.
 
 # Eco-Telemetry
 
-A system to collect and send sensors data over the internet to be displayed and monitored in real-time.
+A system to collect and send sensor data over the internet to be displayed and monitored in real-time.
 
 ![Eco Telemetry diagram](./diagram.png)
 
